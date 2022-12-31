@@ -10,8 +10,6 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/No_image.svg/2048px-No_image.svg.png" width="200"/>
 
-![face-hh](https://github-readme-stats.vercel.app/api?username=PerhapsSuki&show_icons=true&theme=tokyonight&hide=["issues"])
+![PerhapsSuki](https://github-readme-stats.vercel.app/api?username=PerhapsSuki&show_icons=true&theme=tokyonight&hide=["issues"])
 
-![face-hh](https://github-readme-stats.vercel.app/api/top-langs?username=PerhapsSuki&show_icons=true&theme=tokyonight&layout=compact)
-
-<a href='https://paypal.me/WookiSuki' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='PayPal' />
+![PerhapsSuki](https://github-readme-stats.vercel.app/api/top-langs?username=PerhapsSuki&show_icons=true&theme=tokyonight&layout=compact)
